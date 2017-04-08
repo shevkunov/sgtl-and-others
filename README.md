@@ -7,8 +7,8 @@ sgtl-and-others
 
 В двух файлах (см. ниже, почему именно так)
 
-* [Графы](https://github.com/shevkunov/sgtl-graphs.h)
-* [Строки](https://github.com/shevkunov/sgtl-strings.h)
+* [Графы](https://github.com/shevkunov/sgtl-and-others/blob/master/seminars/sgtl-graphs.h)
+* [Строки](https://github.com/shevkunov/sgtl-and-others/blob/master/seminars/sgtl-strings.h)
 
 реализовано множество алгоритмов и структур данных. Вот неполный список содержимого:
 
