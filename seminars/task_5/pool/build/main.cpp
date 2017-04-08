@@ -1,0 +1,1 @@
+/home/shevkunov/code/qt/seminars/task_5/pool/includes/main.cpp
